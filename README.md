@@ -1,1 +1,1 @@
-# SchoolManagement-CI
+# SchoolManagement-laravel
